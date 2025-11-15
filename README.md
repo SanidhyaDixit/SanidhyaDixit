@@ -57,22 +57,12 @@
 
 ---
 
-## 📊 GitHub Stats (dynamic)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanidhyaDixit&show_icons=true&theme=radical&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanidhyaDixit&theme=radical" height="160" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanidhyaDixit&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 
-## 🌈 Fun Animated Section — My Current Focus
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=700&color=FFDE59&center=true&vCenter=true&width=800&lines=🛠️+Building+RESTful+APIs;☁️+Exploring+Cloud+Deployments;🤖+Prototyping+AI+Helpers" />
-</p>
+
 
 ---
 
