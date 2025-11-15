@@ -72,10 +72,10 @@ A complete Java + MySQL project with login system, borrowing, returns & admin da
 
 ## 🌐 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/sanidhya-dixit-a54696288">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:sanidhyadixit12@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
