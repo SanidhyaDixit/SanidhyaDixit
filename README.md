@@ -24,7 +24,7 @@
 ## ✨ About — Dynamic Snapshot
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="sparkle" width="40" />  
-  <strong>I'm Sanidhya — a final-year B.Tech CSE (2025) student building robust backends, delightful developer tools and data-driven projects.</strong>
+  <strong>I'm Sanidhya — a final-year B.Tech CSE (2026) student building robust backends, delightful developer tools and data-driven projects.</strong>
 </p>
 
 - 🎯 Focus: **APIs, System Design, Spring Boot, Automation**  
@@ -85,17 +85,3 @@
 
 ---
 
-## ✨ Tips to Customize (quick)
-1. Replace `SanidhyaDixit` in the stats URLs with your exact GitHub username.  
-2. Replace `YOUR-LINKEDIN`, `yourmail@example.com`, `YOUR-TWITTER` and the project links with your actual links.  
-3. Swap the demo GIF URL with your own `docs/demo.gif` for a personalized animation.  
-4. Want a different color theme? change the `theme` in github-readme-stats (`radical`, `tokyonight`, `dracula`, etc.).  
-
----
-
-## ❤️ If you want, I can:
-- convert this into a **dark neon/hacker** style, or  
-- make a **pastel glassmorphism** theme, or  
-- generate a **demo GIF** from your project and insert it here.
-
-Thanks for the trust — paste this into your README and tell me which vibe you want next (neon / pastel / glass / minimalist).  
