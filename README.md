@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanidhya Dixit</h1>
-<h3 align="center">Backend Developer | Java • Python • SQL | B.Tech CSE '25</h3>
+<h3 align="center">Backend Developer | Java • Python • SQL | B.Tech CSE '26</h3>
 
 <p align="center">
   🚀 Passionate about building scalable backends, automation tools, and real-world projects  
@@ -12,12 +12,12 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Final-year CSE student (2025 batch)  
+- 🎓 Final-year CSE student (2026 batch)  
 - 💻 Java & Python backend developer  
 - 🛠️ Loves building projects that solve real problems  
 - 📊 Interested in APIs, automation, databases, and recommendation systems  
 - 🌱 Currently learning **Spring Boot, Cloud, and Advanced SQL**  
-- 📬 Reach me at: **yourmail@example.com** *(replace this!)*
+- 📬 Reach me at: **sanidhyadixit12.com** 
 
 ---
 
