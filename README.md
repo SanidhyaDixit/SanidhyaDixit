@@ -21,7 +21,7 @@
 
 ---
 
-## ✨ About — Dynamic Snapshot
+## ✨ About — 
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="sparkle" width="40" />  
   <strong>I'm Sanidhya — a final-year B.Tech CSE (2026) student building robust backends, delightful developer tools and data-driven projects.</strong>
@@ -48,13 +48,6 @@
 </p>
 
 ---
-
-## 🎨 Visuals & Live Preview
-<p align="center">
-  <!-- GIF demo - replace with your demo GIF path if you have one -->
-  <img src="https://media.giphy.com/media/l4FGwHEUCGILz3dAI/giphy.gif" alt="demo" width="720" style="max-width:100%; border-radius:10px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);" />
-</p>
-
 ---
 
 
